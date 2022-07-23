@@ -52,7 +52,7 @@ main {
   border-radius: 20px;
   padding: 16px 16px 40px 16px;
   text-align: center;
-  box-shadow: 3px 7px 30px hsl(220, 15%, 55%);
+  box-shadow: 3px 7px 60px hsl(220, 15%, 55%);
 }
 
 .text-containter {
