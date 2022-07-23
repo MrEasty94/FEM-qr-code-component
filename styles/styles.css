@@ -45,7 +45,7 @@ main {
 
 .container {
   width: 320px;
-  min-height: 500px;
+  min-height: 497px;
   display: flex;
   flex-direction: column;
   background-color: hsl(0, 0%, 100%);
